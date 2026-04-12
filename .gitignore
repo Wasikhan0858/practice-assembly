@@ -1,0 +1,19 @@
+# Binaries (both lowercase + uppercase)
+*.exe
+*.EXE
+*.com
+*.COM
+*.obj
+*.OBJ
+*.dll
+*.DLL
+*.lst
+*.LST
+
+# Temp
+*.swp
+*.tmp
+
+# Archives
+*.zip
+*.ZIP
