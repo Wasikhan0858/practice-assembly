@@ -15,6 +15,6 @@ mov ax, 0x4c01
 
 int 0x21
 
-num1: dw 5, 10, 15
+num1: dw 10, 15, 25
 
 result: dw 0 
