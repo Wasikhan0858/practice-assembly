@@ -9,6 +9,6 @@
     mov[num1 + 6], ax       
 
     mov ax, 0x4c00  ; the 4c00 here tells the OS to exit this-
-    int 0x21
+    int 0x21 ;interupt and return control to the OS
 
 num1:db 5, 10, 15, 0
